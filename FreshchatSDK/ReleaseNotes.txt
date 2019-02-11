@@ -2,7 +2,11 @@ Freshchat iOS SDK - Powered by Freshdesk
 
 Documentation   : https://support.freshchat.com
 Support Email   : support@freshchat.com
-Version         : 2.4.0
+Version         : 2.4.2
+
+Ver 2.4.2
+__________________________
+Restore ID event triggered only when there is change in restore ID and external ID.
 
 Ver 2.4.0 
 __________________________
@@ -72,7 +76,7 @@ Ver 1.5.0
 __________________________
 Support for auto expiring Customer Satisfaction Surveys
 Add support for overriding CSAT survey's question
-Action name for unread count API  changed to FRESHCHAT_UNREAD_MESSAGE_COUNT_CHANGED
+Action name for unread count API changed to FRESHCHAT_UNREAD_MESSAGE_COUNT_CHANGED
 
 Ver 1.4.6 
 __________________________
@@ -81,7 +85,7 @@ Make push prompt configurable
 
 Ver 1.4.5 
 __________________________
-Fix marketing campaign notifications not showing when app is open
+Fix marketing campaign notification
 
 Ver 1.4.4 
 __________________________
@@ -89,7 +93,7 @@ Display files sent by user from other platforms
 
 Ver 1.4.3 
 __________________________
-Fix rare issue with first user message displaying twice over
+Fix for duplicate first message
 
 Ver 1.4.2 
 __________________________
